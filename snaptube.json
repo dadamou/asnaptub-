@@ -47,7 +47,7 @@
   "posts" : [
     {
       "id" : 0,
-      "imageURL" : "https://dadamou.github.io/guide-naim/icon_lancher.png",
+      "imageURL" : "",
       "state" : "free",
       "title" : "",
       "description" : "",
@@ -55,7 +55,7 @@
     },
     {
       "id" : 1,
-      "imageURL" : "https://dadamou.github.io/guide-naim/icon_lancher.png",
+      "imageURL" : "",
       "state" : "free",
       "title" : "Step 1",
       "description" : "",
@@ -63,7 +63,7 @@
     },
     {
       "id" : 2,
-      "imageURL" : "https://dadamou.github.io/guide-naim/icon_lancher.png",
+      "imageURL" : "",
       "state" : "free",
       "title" : "Step 2",
       "description" : "",
@@ -71,7 +71,7 @@
     },
     {
       "id" : 3,
-      "imageURL" : "https://dadamou.github.io/guide-naim/icon_lancher.png",
+      "imageURL" : "",
       "state" : "free",
       "title" : "Step 3",
       "description" : "",
